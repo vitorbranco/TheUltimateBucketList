@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">The Ultimate Bucket List</string>
+    <string name="text_view_titulo">The Ultimate Bucket List</string>
+    <string name="text_view_coisas">Lista de coisas</string>
+    <string name="text_view_lugares">Lista de lugares</string>
 </resources>
